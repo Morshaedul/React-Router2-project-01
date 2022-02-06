@@ -1,0 +1,28 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+.myLink {display: none}
+.navv{
+
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 75px;
+    margin: 10px 0px 0px 435px;
+}
+ li :link{
+    text-decoration: none;
+    background-color: #dadaff;
+    display: block;
+    color: rgb(19, 19, 18);
+    margin: 6px;
+    padding: 5px 30px;
+}
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.morshaedul{
+    width: 960;
+    margin: 0 auto;
+}
